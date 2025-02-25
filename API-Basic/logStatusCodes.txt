@@ -1,0 +1,30 @@
+
+LEVEL:
+100 - Bilgilendirme
+200 - Uyarı
+300 - Hata
+400 - Critical
+
+    CODE:
+	00 - Tanımlanmamış
+	01 - Sunucu başlatılması
+	02 - Veri tabanı bağlantısı
+	03 - Veri tabanı işlemleri
+	04 - Dosya işlemleri
+	05 - Alınan veriler
+	06 - Gönderilen veriler
+	07 - Environment değişkenleri
+	08 - Desteklenmeyen İşlem
+	09 - Zamana duyarlı işlemler
+	10 - Child Process
+	11 - Sunucu ilk kez başlatılması
+	12 - Fix işlemi gerçekleştirilmesi
+	13 - Mailer işlemleri
+	14 - Git system işlemleri
+	15 - Rol sistemi veritabanı işlemleri
+	16 - Rol sistemi diğer işlemler
+	17 - Bildirim servisi, OneSignal bağlantısı
+	18 - Bildirim servisi, Bildirim gönderme
+	19 - Bildirim servisi, Veri tabanı işlemleri
+	20 - Limiter işlemleri
+
